@@ -1,0 +1,9 @@
+[submodule "poker-session-analyzer"]
+	path = poker-session-analyzer
+	url = https://github.com/sbOogway/poker-session-analyzer
+[submodule "poker-api"]
+	path = poker-api
+	url = https://github.com/sbOogway/poker-api
+[submodule "poker-hand-replayer"]
+	path = poker-hand-replayer
+	url = https://github.com/sbOogway/poker-hand-replayer
